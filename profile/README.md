@@ -1,61 +1,22 @@
-<!--
-  Org profile: https://github.com/OzyrixLtd
-  Copy SSOT: https://github.com/OzyrixLtd/brand/docs/copy
--->
+# OZYRIX
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0A0A0A,100:444444&text=OZYRIX&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Quality%20Tech%20Accessories&descSize=18&descAlignY=62&fontAlignY=42" width="100%" alt="OZYRIX"/>
+**Good things, well chosen.**
 
-<p align="center">
-  <b>Quality tech accessories · Multi-channel commerce</b><br/>
-  Cables · Power · Audio · Protection
-</p>
-
-<p align="center">
-  <a href="https://ozyrix.com"><img src="https://img.shields.io/badge/Shop-ozyrix.com-0A0A0A?style=for-the-badge" alt="Shop"/></a>
-  <a href="https://github.com/OzyrixLtd/brand"><img src="https://img.shields.io/badge/Brand-SSOT-444444?style=for-the-badge" alt="Brand"/></a>
-  <a href="https://github.com/OzyrixLtd/website"><img src="https://img.shields.io/badge/Product-website-111111?style=for-the-badge&logo=github" alt="Website repo"/></a>
-</p>
+**Ozyrix Limited** is a UK storefront offering practical everyday home tools, full-grain leather carry, and tech accessories at **[ozyrix.com](https://ozyrix.com)**.
 
 ---
 
-## What we build
+## What we carry
 
-**Ozyrix** (Ozyrix Limited) sells **quality tech accessories** through a modern e-commerce platform — own storefront first, multi-channel ready — so the brand owns products, customers, and data.
+- **Home Tools** — practical, well-made everyday tools built for regular use.
+- **Leather Carry** — full-grain leather goods designed to age well.
+- **Tech Accessories** — reliable everyday accessories with clear specifications.
 
-| Pillar | Meaning |
-|--------|---------|
-| **Quality** | Durable accessories, certification-minded |
-| **Clear** | Straightforward shipping & returns |
-| **Direct** | Brand-owned relationship across channels |
-
-> Quality tech accessories — cables, power, audio, protection.
+Every product is described plainly, with price, delivery, and returns set out up front.
 
 ---
 
-## Product
+## Storefront
 
-Production storefront & admin: **[OzyrixLtd/website](https://github.com/OzyrixLtd/website)**  
-Live: **[ozyrix.com](https://ozyrix.com)**
-
-Stack highlights: Next.js · TypeScript · PostgreSQL · Stripe · Sylphx Platform deploy.
-
----
-
-## Brand
-
-| | |
-|--|--|
-| **Legal** | Ozyrix Limited |
-| **Display** | **OZYRIX** |
-| **SSOT** | [github.com/OzyrixLtd/brand](https://github.com/OzyrixLtd/brand) |
-| **Copy kit** | [docs/copy](https://github.com/OzyrixLtd/brand/tree/main/docs/copy) |
-
----
-
-<div align="center">
-
-**[ozyrix.com](https://ozyrix.com)** · Quality Tech Accessories
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:333333&height=100&section=footer" width="100%" alt="footer"/>
+- **Shop:** [ozyrix.com](https://ozyrix.com)
+- **Company:** Ozyrix Limited · United Kingdom
